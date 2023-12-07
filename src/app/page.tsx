@@ -6,8 +6,6 @@ export default function Home() {
   const { data } = useSession()
 
   return (
-    <div className='bg-primary'>
-      Hello World!
-    </div>
+    <div></div>
   )
 }
